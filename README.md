@@ -5,7 +5,7 @@ This is a repository about learning python. You will know about popular resource
 
 **1. Learning Python**
 For learning Python, Many resources are available. Starting with YT channels, The best one I found yet is 
-> [codewithharry] (https://youtube.com/@CodeWithHarry)
+[codewithharry] (https://youtube.com/@CodeWithHarry)
 and specifically [This Python playlist] (https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 
 Now talking about Other Sources There are a lot of Free and Paid courses on Udemy which also provides certificates. You can found a dozen of courses on my udemy account about Python. 
