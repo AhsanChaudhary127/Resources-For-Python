@@ -10,3 +10,9 @@ and specifically [This Python playlist](https://youtube.com/playlist?list=PLu0W_
 
 Now talking about Other Sources There are a lot of Free and Paid courses on Udemy which also provides certificates. You can found a dozen of courses on my udemy account about Python. 
 If we talk about Mobile apps then the best ones I like are [M1M0](https://files.modyolo.com/Mimo/Mimo_v4.4_Patched.apk)  & [Programming Hero](https://hole.apkdone.download/s/TpbfFiKAXLAM5n8/download). You can Download them by clicking the Names above 
+
+**2. Practising Python**
+For practising python, There are more services available than you'll ever imagine.
+### For Example :
+These are some popular ones.
+![image1](https://github.com/Chaudhary97/Resources-For-Python/assets/89289599/4c061866-ca02-4354-9d75-855cd7f7dc04)
