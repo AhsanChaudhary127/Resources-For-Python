@@ -6,7 +6,7 @@ This is a repository about learning python. You will know about popular resource
 **1. Learning Python**
 For learning Python, Many resources are available. Starting with YT channels, The best one I found yet is 
 [Code with Harry](https://youtube.com/@CodeWithHarry)
-and specifically [This Python playlist](https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg). Another great YT channel that I would recommend is [FreeCodeCamp](https://youtube.com/@freecodecamp/).[This basic Playlist](https://m.youtube.com/playlist?list=PLWKjhJtqVAbkmRvnFmOd4KhDdlK1oIq23) 
+and specifically [This Python playlist](https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg). Another great YT channel that I would recommend is [FreeCodeCamp](https://youtube.com/@freecodecamp/). [This basic Playlist](https://m.youtube.com/playlist?list=PLWKjhJtqVAbkmRvnFmOd4KhDdlK1oIq23) contains all the basic python Programming tutorials
 Now talking about Other Sources There are a lot of Free and Paid courses on Udemy which also provides certificates. You can found a dozen of courses on my udemy account about Python. 
 If we talk about Mobile apps then the best ones I like are [M1M0](https://files.modyolo.com/Mimo/Mimo_v4.4_Patched.apk)  & [Programming Hero](https://hole.apkdone.download/s/TpbfFiKAXLAM5n8/download). You can Download them by clicking the Names above 
 
