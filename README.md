@@ -28,4 +28,4 @@ If You use Windows 7, I recommend Python version 3.3. Anything above Windows 7 a
 And remember to tick the box saying add to Path while installing Python. 
 While using Pycharm, Don't get so organised in a sense that don't create a new progect for every file. Make one project and create different filess. This will help you to save storage. 
 
-**Remember that Everything that You need to download can be Easily Downloaded by clicking the names of thePrograms. Youcanalso visit YT channels simplybyclicking the names**
+**Remember that Everything that You need to download can be Easily Downloaded by clicking the names of the Programs. Youcanalso visit YT channels simply by clicking the names**
