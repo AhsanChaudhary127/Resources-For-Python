@@ -21,7 +21,7 @@ If You are using Windows 7, I recommend Python version 3.3. Anything above Windo
 While installing the Python Setup, remember to tick the box saying add to Path. This would add python to environment variables and you could easily install pip packages and run python in terminal if you're into that kind of stuff. 
 While using Pycharm, Don't get so organised in a sense that don't create a new project for every file. Every seperate project creates a new virtual environment which takes up alot of space if managing many projects and you can't access the global modules that you installed in python. You would need to install the modules again in the new project. That's why I recommend making one project and creating different folders, subfolders, and files. This will help you to save storage and be organized at same time. 
 
-### 2. Practising Python
+### 3. Practising Python
 For practising python, There are more services available than you'll ever imagine.
 
 **For Example :**
